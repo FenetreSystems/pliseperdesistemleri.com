@@ -73,6 +73,38 @@ export default function Services() {
           </div>
         </section>
 
+        <section className="bg-white py-16 md:py-20 border-t border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Ürün Seçenekleri</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/urunler/yapiskan-plise-perde" className="text-primary hover:underline">Yapışkanlı Plise Perde</Link></li>
+                  <li><Link href="/urunler/blackout-plise-perde" className="text-primary hover:underline">Blackout Plise Perde</Link></li>
+                  <li><Link href="/urunler/honeycomb-perde" className="text-primary hover:underline">Honeycomb Perde</Link></li>
+                  <li><Link href="/urunler" className="text-primary hover:underline">Tüm Ürünleri Gör</Link></li>
+                </ul>
+              </div>
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Hizmet Bölgeleri</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/hizmet-bolgeler/istanbul" className="text-primary hover:underline">İstanbul Hizmetleri</Link></li>
+                  <li><Link href="/hizmet-bolgeler/kocaeli" className="text-primary hover:underline">Kocaeli Hizmetleri</Link></li>
+                  <li><Link href="/iletisim" className="text-primary hover:underline">İletişim Bilgileri</Link></li>
+                </ul>
+              </div>
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Kurumsal</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/" className="text-primary hover:underline">Ana Sayfa</Link></li>
+                  <li><Link href="/bayilik" className="text-primary hover:underline">Bayilik Programı</Link></li>
+                  <li><Link href="/gizlilik-politikasi" className="text-primary hover:underline">Gizlilik Politikası</Link></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="bg-gray-50 py-16 md:py-20">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 className="text-3xl font-bold text-secondary mb-4">Hizmet Almak İster misiniz?</h2>

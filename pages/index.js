@@ -624,6 +624,38 @@ export default function Home() {
           </div>
         </section>
 
+        {/* İç Linkler Bölümü */}
+        <section className="bg-white py-16 md:py-20 border-t border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Ürün Kataloğu</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/urunler/blackout-plise-perde" className="text-primary hover:underline">Blackout Plise Perde</Link></li>
+                  <li><Link href="/urunler/honeycomb-perde" className="text-primary hover:underline">Honeycomb Perde</Link></li>
+                  <li><Link href="/urunler/gece-gunduz-plise-perde" className="text-primary hover:underline">Gece Gündüz Perde</Link></li>
+                </ul>
+              </div>
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Hizmetlerimiz</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/hizmetler/yerinde-olcu" className="text-primary hover:underline">Yerinde Ölçü Hizmeti</Link></li>
+                  <li><Link href="/hizmetler/yerinde-montaj" className="text-primary hover:underline">Profesyonel Montaj</Link></li>
+                  <li><Link href="/hizmetler/kurumsal-cozumler" className="text-primary hover:underline">Kurumsal Projeler</Link></li>
+                </ul>
+              </div>
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Hizmet Bölgeleri</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/hizmet-bolgeler/istanbul" className="text-primary hover:underline">İstanbul Hizmetleri</Link></li>
+                  <li><Link href="/hizmet-bolgeler/kocaeli" className="text-primary hover:underline">Kocaeli Hizmetleri</Link></li>
+                  <li><Link href="/iletisim" className="text-primary hover:underline">Tüm Bölgeler</Link></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* Final CTA */}
         <section className="bg-gradient-to-br from-gray-100 to-gray-50 text-secondary py-16 md:py-24 border-t border-gray-200">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

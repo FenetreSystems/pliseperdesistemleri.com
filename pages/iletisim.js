@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import MobileFooter from '../components/MobileFooter'
+import Link from 'next/link'
 
 export default function Contact() {
   return (
@@ -201,6 +202,39 @@ export default function Contact() {
                   Evet, 40+ standart renk ve sınırsız özel renk seçeneği sunuyoruz. Renk örnekleri için bize ulaşabilirsiniz.
                 </p>
               </details>
+            </div>
+          </div>
+        </section>
+
+        <section className="bg-white py-16 md:py-20 border-t border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Ürün Kataloğu</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/urunler/yapiskan-plise-perde" className="text-primary hover:underline">Yapışkanlı Plise Perde</Link></li>
+                  <li><Link href="/urunler/blackout-plise-perde" className="text-primary hover:underline">Blackout Plise Perde</Link></li>
+                  <li><Link href="/urunler/gece-gunduz-plise-perde" className="text-primary hover:underline">Gece Gündüz Perde</Link></li>
+                  <li><Link href="/urunler" className="text-primary hover:underline">Tüm Ürünler</Link></li>
+                </ul>
+              </div>
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Hizmetlerimiz</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/hizmetler/yerinde-olcu" className="text-primary hover:underline">Yerinde Ölçü Hizmeti</Link></li>
+                  <li><Link href="/hizmetler/yerinde-montaj" className="text-primary hover:underline">Profesyonel Montaj</Link></li>
+                  <li><Link href="/hizmetler/kurumsal-cozumler" className="text-primary hover:underline">Kurumsal Çözümler</Link></li>
+                  <li><Link href="/hizmetler" className="text-primary hover:underline">Tüm Hizmetler</Link></li>
+                </ul>
+              </div>
+              <div className="bg-gradient-to-br from-gray-50 to-white rounded-lg p-6 border border-gray-200">
+                <h3 className="font-bold text-secondary mb-4 text-lg">Kurumsal</h3>
+                <ul className="space-y-2">
+                  <li><Link href="/" className="text-primary hover:underline">Ana Sayfa</Link></li>
+                  <li><Link href="/bayilik" className="text-primary hover:underline">Bayilik Programı</Link></li>
+                  <li><Link href="/cerez-politikasi" className="text-primary hover:underline">Çerez Politikası</Link></li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
