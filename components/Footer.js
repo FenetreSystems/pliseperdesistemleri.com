@@ -134,9 +134,9 @@ export default function Footer() {
               © 2024 Plise Perde Sistemleri. Tüm hakları saklıdır.
             </p>
             <div className="flex gap-6 text-sm text-gray-400">
-              <a href="#" className="hover:text-primary transition">Gizlilik Politikası</a>
-              <a href="#" className="hover:text-primary transition">Kullanım Şartları</a>
-              <a href="#" className="hover:text-primary transition">Çerez Politikası</a>
+              <a href="/gizlilik-politikasi" className="hover:text-primary transition">Gizlilik Politikası</a>
+              <a href="/kullanim-sartlari" className="hover:text-primary transition">Kullanım Şartları</a>
+              <a href="/cerez-politikasi" className="hover:text-primary transition">Çerez Politikası</a>
             </div>
           </div>
         </div>
