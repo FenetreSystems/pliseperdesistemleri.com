@@ -13,7 +13,7 @@ export default function Header() {
           <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
             <span className="text-white font-bold text-lg">PP</span>
           </div>
-          <span className="font-bold text-lg text-secondary hidden sm:inline">Plise Perde</span>
+          <span className="font-bold text-lg text-secondary">Plise Perde</span>
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
