@@ -1,14 +1,7 @@
 export default function MobileFooter() {
   return (
     <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 md:hidden">
-      <div className="flex items-center justify-between px-4 py-3">
-        {/* Logo */}
-        <div className="flex-1">
-          <div className="text-sm font-bold text-secondary">
-            PP <span className="text-primary">Plise Perde</span>
-          </div>
-        </div>
-
+      <div className="flex items-center justify-around px-4 py-3">
         {/* Telefon */}
         <a 
           href="tel:+905403363873" 
