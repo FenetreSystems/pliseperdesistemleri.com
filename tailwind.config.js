@@ -16,4 +16,10 @@ module.exports = {
     },
   },
   plugins: [],
+  corePlugins: {
+    preflight: true,
+  },
+  safelist: [],
+  important: false,
+  separator: ':',
 }
