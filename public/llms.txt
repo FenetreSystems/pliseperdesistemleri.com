@@ -227,6 +227,208 @@
 - Yerel istihdam
 - Kaliteli hizmet taahhüdü
 
+## Yasal Sayfalar
+
+### Gizlilik Politikası
+- KVKK uyumlu
+- Kişisel veri korunması
+- Veri işleme prosedürleri
+- Haklarınız ve iletişim
+
+### Kullanım Şartları
+- Hizmet tanımı
+- Kullanıcı sorumlulukları
+- Sipariş ve ödeme
+- İade ve değişim politikası
+- Garanti koşulları
+- Sorumluluk sınırlaması
+
+### Çerez Politikası
+- Çerez türleri (gerekli, analitik, pazarlama, sosyal medya)
+- Çerez süresi
+- Kontrol ve yönetim
+- Üçüncü taraf hizmetleri
+
+## Müşteri Referansları
+
+**Memnun Müşteriler:**
+- Konut sahipleri
+- Ofis yöneticileri
+- Otel ve turizm işletmeleri
+- Sağlık kuruluşları
+- Eğitim kurumları
+- Perakende mağazaları
+
+**Ortalama Değerlendirme:** 4.9/5.0
+**Toplam Değerlendirme:** 500+
+
+## Sektör Bilgileri
+
+**Plise Perde Pazarı:**
+- Türkiye'de hızla büyüyen sektör
+- Enerji tasarrufu trendleri
+- Ev dekorasyonu tercihlerindeki değişimler
+- Ticari mekan çözümleri
+
+**Rekabet Analizi:**
+- Doğrudan üreticiden satış avantajı
+- Geniş ürün yelpazesi
+- Profesyonel hizmet kalitesi
+- Müşteri memnuniyeti oranı
+
+## Ödeme ve Finansal Bilgiler
+
+**Ödeme Seçenekleri:**
+- Nakit ödeme
+- Kredi Kartı (Visa, Mastercard, American Express)
+- Banka Transferi
+- Taksit (3-12 ay)
+- Kurumsal Kredi Hesabı
+
+**Fiyat Aralığı:**
+- Ekonomik: 500 TL - 1500 TL
+- Orta Segment: 1500 TL - 3000 TL
+- Premium: 3000 TL - 5000 TL+
+
+**İndirim Programları:**
+- Toplu Siparişler: %20-40
+- Tekrar Müşteriler: %10-15
+- Mevsimsel Kampanyalar: %15-25
+- Bayilik Programı: %25-40
+
+## Teknoloji Altyapısı
+
+**Web Teknolojileri:**
+- Next.js 14 (React framework)
+- Tailwind CSS (Styling)
+- Node.js (Backend)
+- PostgreSQL/MongoDB (Database)
+
+**Güvenlik:**
+- SSL/TLS Şifreleme
+- HTTPS Protokolü
+- Firewall Koruması
+- DDoS Koruması
+- Düzenli Güvenlik Denetimleri
+
+**Performans:**
+- CDN Kullanımı
+- Image Optimization
+- Caching Stratejileri
+- Mobile Optimization
+- Page Speed Optimization
+
+## Mobil Uygulaması
+
+**Özellikler:**
+- Ürün Kataloğu
+- Sipariş Takibi
+- Müşteri Desteği
+- Bildirimler
+- Hesap Yönetimi
+
+**Platform:**
+- iOS (App Store)
+- Android (Google Play)
+
+## Sosyal Medya Varlığı
+
+**Aktif Platformlar:**
+- Instagram: @pliseperdesistemleri
+- Facebook: Plise Perde Sistemleri
+- YouTube: Plise Perde Sistemleri
+- LinkedIn: Plise Perde Sistemleri
+
+**İçerik:**
+- Ürün Tanıtımları
+- Montaj Videoları
+- Müşteri Hikayeleri
+- Tasarım İpuçları
+- Bakım Rehberleri
+
+## Sertifikasyon ve Standartlar
+
+**Uluslararası Sertifikalar:**
+- ISO 9001:2015 (Kalite Yönetimi)
+- ISO 14001:2015 (Çevre Yönetimi)
+- CE Sertifikası (Avrupa Standartları)
+
+**Yerel Sertifikalar:**
+- KVKK Uyumluluğu
+- Vergi Mükellefi Belgesi
+- Ticaret Odası Üyeliği
+
+## Araştırma ve Geliştirme
+
+**Yenilikçi Ürünler:**
+- Akıllı Plise Perdeler (Otomatik Kontrol)
+- Ses Yalıtımlı Kumaşlar
+- Antibakteriyel Malzemeler
+- Geri Dönüştürülebilir Kumaşlar
+
+**Devam Eden Projeler:**
+- IoT Entegrasyonu
+- Mobil Uygulama Geliştirme
+- Yapay Zeka Tasarım Asistanı
+- Sanal Gerçeklik Showroom
+
+## Eğitim ve Danışmanlık
+
+**Hizmetler:**
+- İç Mimar Danışmanlığı
+- Renk Seçim Rehberi
+- Enerji Tasarrufu Analizi
+- Bakım ve Temizlik Eğitimi
+- Montaj Eğitimi
+
+**Eğitim Programları:**
+- Bayilik Eğitimi
+- Montajcı Sertifikası
+- Ölçü Uzmanı Eğitimi
+- Müşteri Hizmetleri Eğitimi
+
+## Kurumsal Sosyal Sorumluluk
+
+**Çevre Projeleri:**
+- Plastik Geri Dönüşüm Programı
+- Enerji Tasarrufu Kampanyaları
+- Yeşil Bina Sertifikasyonu Desteği
+
+**Toplumsal Projeler:**
+- Yerel İstihdam Yaratma
+- Stajyer Programları
+- Sosyal Medya Eğitimi
+- Esnaf Desteği
+
+## İletişim Kanalları
+
+**Müşteri Hizmetleri:**
+- Telefon: +90 540 336 3873
+- WhatsApp: +90 540 336 3873
+- E-posta: info@pliseperdesistemleri.com
+- Canlı Sohbet: Web sitesinde
+- Sosyal Medya: Tüm platformlarda
+
+**Yanıt Süresi:**
+- Telefon: 5 dakika
+- WhatsApp: 15 dakika
+- E-posta: 1 saat
+- Canlı Sohbet: 2 dakika
+
+## Gelecek Planları
+
+**2026-2027:**
+- Yeni Ürün Hatları
+- Uluslararası Genişleme
+- Teknoloji Yatırımları
+- Müşteri Deneyimi İyileştirme
+
+**2027-2028:**
+- Avrupa Pazarına Giriş
+- Yeni Hizmet Modelleri
+- Dijital Dönüşüm
+- Sürdürülebilirlik Hedefleri
+
 ## İletişim Yöntemleri
 - Telefon: +90 540 336 3873
 - WhatsApp: +90 540 336 3873

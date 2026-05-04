@@ -215,4 +215,24 @@
     <priority>0.85</priority>
     <mobile:mobile/>
   </url>
+
+  <!-- Yasal Sayfalar -->
+  <url>
+    <loc>https://pliseperdesistemleri.com/gizlilik-politikasi</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pliseperdesistemleri.com/kullanim-sartlari</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pliseperdesistemleri.com/cerez-politikasi</loc>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>

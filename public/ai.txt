@@ -300,3 +300,251 @@
 - Perakende bayiler
 - İnşaat şirketleri
 - İç mimar ve tasarımcılar
+
+## Yasal ve Uyum Bilgileri
+
+### Gizlilik Politikası
+**KVKK Uyumluluğu:**
+- Kişisel veri işleme prosedürleri
+- Veri güvenliği önlemleri
+- Kullanıcı hakları
+- Veri silme ve düzeltme hakkı
+- Veri taşınabilirliği
+- İtiraz etme hakkı
+
+**Veri İşleme:**
+- Yasal dayanaklar
+- İşleme amaçları
+- Saklama süreleri
+- Üçüncü taraf paylaşımı
+- Uluslararası transferler
+
+### Kullanım Şartları
+**Hukuki Çerçeve:**
+- Sözleşme koşulları
+- Kullanıcı sorumlulukları
+- Hizmet sağlayıcı sorumlulukları
+- Sorumluluk sınırlaması
+- Uyuşmazlık çözümü
+
+**Ticari Şartlar:**
+- Sipariş süreci
+- Ödeme koşulları
+- İade politikası
+- Garanti koşulları
+- Değişim prosedürü
+
+### Çerez Politikası
+**Çerez Yönetimi:**
+- Gerekli çerezler (oturum, güvenlik)
+- Analitik çerezler (Google Analytics)
+- Pazarlama çerezleri (Retargeting)
+- Sosyal medya çerezleri
+- Üçüncü taraf çerezleri
+
+**Kontrol Seçenekleri:**
+- Tarayıcı ayarları
+- Çerez silme
+- Gizli mod kullanımı
+- Eklenti kullanımı
+- Opt-out seçenekleri
+
+## Müşteri Deneyimi
+
+### Satın Alma Süreci
+1. **Ürün Seçimi:** Katalogdan ürün seçimi
+2. **Ölçü:** Yerinde ölçü hizmeti (ücretsiz)
+3. **Tasarım:** Renk ve malzeme seçimi
+4. **Sipariş:** Sipariş onayı ve ödeme
+5. **Üretim:** 3-5 gün üretim süresi
+6. **Teslimat:** Kargo ile teslimat
+7. **Montaj:** Profesyonel montaj hizmeti
+8. **Destek:** Montaj sonrası destek
+
+### Müşteri Memnuniyeti Metrikleri
+- **Genel Memnuniyet:** %99+
+- **Tekrar Satın Alma Oranı:** %85+
+- **Referans Oranı:** %70+
+- **Şikayet Çözüm Süresi:** 24 saat
+- **Ortalama Yanıt Süresi:** 2 saat
+
+## Pazarlama Stratejisi
+
+### Dijital Pazarlama
+- **SEO:** Organik arama optimizasyonu
+- **SEM:** Google Ads kampanyaları
+- **Sosyal Medya:** Instagram, Facebook, YouTube
+- **E-mail:** Pazarlama e-postaları
+- **İçerik:** Blog ve rehber yazıları
+
+### Geleneksel Pazarlama
+- **Basılı Reklamlar:** Gazete ve dergilerde
+- **Radyo:** Yerel radyo kampanyaları
+- **Kat Kapı:** Bölgesel tanıtım
+- **Etkinlikler:** Fuarlar ve sergiler
+
+### İçerik Pazarlaması
+- **Blog Yazıları:** Plise perde rehberleri
+- **Videolar:** Montaj ve tasarım videoları
+- **İnfografikler:** Ürün karşılaştırmaları
+- **Podcasts:** Tasarım ve dekorasyon
+- **Webinarlar:** Canlı eğitim oturumları
+
+## Operasyonel Bilgiler
+
+### Üretim Kapasitesi
+- **Günlük Üretim:** 100+ proje
+- **Aylık Üretim:** 3000+ proje
+- **Yıllık Üretim:** 36000+ proje
+- **Stok Seviyeleri:** 500+ ürün varyasyonu
+
+### Kalite Kontrol
+- **Malzeme Testi:** Her parti kontrol edilir
+- **Üretim Kontrolü:** Her 10 üründe 1 kontrol
+- **Son Kontrol:** Montaj öncesi kontrol
+- **Müşteri Memnuniyeti:** Montaj sonrası takip
+
+### Lojistik
+- **Depo Kapasitesi:** 5000 m²
+- **Kargo Ortakları:** 10+ şirket
+- **Teslimat Noktaları:** 100+ şehir
+- **Takip Sistemi:** Gerçek zamanlı GPS
+
+## Finansal Performans
+
+### Gelir Kaynakları
+- **Ürün Satışları:** %60
+- **Montaj Hizmetleri:** %25
+- **Danışmanlık Hizmetleri:** %10
+- **Bayilik Gelirleri:** %5
+
+### Maliyet Yapısı
+- **Malzeme Maliyeti:** %35
+- **İşçilik Maliyeti:** %20
+- **Pazarlama:** %10
+- **Operasyon:** %20
+- **Kar Marjı:** %15
+
+### Büyüme Hedefleri
+- **2026:** %25 büyüme
+- **2027:** %35 büyüme
+- **2028:** %50 büyüme
+- **2030:** Pazar lideri konumu
+
+## İnsan Kaynakları
+
+### Çalışan Profili
+- **Toplam Çalışan:** 50+
+- **Üretim:** 25 kişi
+- **Montaj:** 15 kişi
+- **Yönetim:** 5 kişi
+- **Destek:** 5 kişi
+
+### Eğitim ve Geliştirme
+- **Yıllık Eğitim Saati:** 40+ saat/kişi
+- **Sertifikasyon Programları:** 5+ program
+- **Kariyer Gelişimi:** Terfi imkanları
+- **Çalışan Memnuniyeti:** %95+
+
+## Sürdürülebilirlik
+
+### Çevre Hedefleri
+- **Karbon Nötr:** 2030 yılına kadar
+- **Plastik Azaltma:** %50 azalma
+- **Geri Dönüşüm:** %80 oranı
+- **Yenilenebilir Enerji:** %60 kullanım
+
+### Sosyal Hedefleri
+- **Yerel İstihdam:** 100+ iş
+- **Kadın İstihdam:** %40 hedefi
+- **Genç İstihdam:** 18-25 yaş grubu
+- **Engelli İstihdam:** %5 hedefi
+
+## Teknoloji Yatırımları
+
+### Yazılım Geliştirme
+- **Web Platformu:** Next.js 14
+- **Mobil Uygulama:** React Native
+- **Yönetim Sistemi:** ERP Yazılımı
+- **CRM Sistemi:** Müşteri Yönetimi
+
+### Donanım Yatırımları
+- **Üretim Makineleri:** CNC Kesim
+- **Kalite Kontrol:** Otomatik Kontrol
+- **Depo Sistemi:** Otomatik Racking
+- **Kargo Sistemi:** Otomatik Paketleme
+
+## Uluslararası Operasyonlar
+
+### Mevcut Pazarlar
+- **Türkiye:** Ana pazar
+- **Kuzey Kıbrıs:** Dağıtıcı ortakları
+- **Bulgaristan:** İthalatçı ortakları
+- **Romanya:** Perakende ortakları
+
+### Hedef Pazarlar
+- **Almanya:** 2026
+- **Fransa:** 2026
+- **İngiltere:** 2027
+- **Hollanda:** 2027
+- **Avusturya:** 2027
+
+## Ürün Geliştirme Yol Haritası
+
+### 2026 Yılı
+- Akıllı Plise Perdeler (Otomatik Kontrol)
+- Ses Yalıtımlı Kumaşlar
+- Antibakteriyel Malzemeler
+- Geri Dönüştürülebilir Kumaşlar
+
+### 2027 Yılı
+- IoT Entegrasyonu
+- Mobil Uygulama Geliştirme
+- Yapay Zeka Tasarım Asistanı
+- Sanal Gerçeklik Showroom
+
+### 2028 Yılı
+- Blockchain Sertifikasyon
+- Metaverse Showroom
+- AI Chatbot Desteği
+- Drone Teslimat
+
+## Müşteri Destek Sistemi
+
+### Destek Kanalları
+- **Telefon:** +90 540 336 3873 (24/7)
+- **WhatsApp:** +90 540 336 3873 (24/7)
+- **E-posta:** info@pliseperdesistemleri.com (1 saat)
+- **Canlı Sohbet:** Web sitesinde (2 dakika)
+- **Sosyal Medya:** Tüm platformlarda (1 saat)
+
+### Destek Ekibi
+- **Ölçü Uzmanları:** 10 kişi
+- **Montajcılar:** 15 kişi
+- **Müşteri Temsilcileri:** 5 kişi
+- **Teknik Destek:** 5 kişi
+
+### Destek Hizmetleri
+- **Ön Satış Danışmanlığı:** Ücretsiz
+- **Tasarım Danışmanlığı:** Ücretsiz
+- **Montaj Sonrası Destek:** Ömür boyu
+- **Bakım Danışmanlığı:** Ücretsiz
+- **Teknik Sorunlar:** 24 saat çözüm
+
+## Rakip Analizi
+
+### Rakip Avantajları
+- 15+ yıl tecrübe
+- Doğrudan üreticiden satış (%30-40 tasarruf)
+- Türkiye'nin en geniş ürün yelpazesi (12 tür)
+- Profesyonel ekip (50+ çalışan)
+- Hızlı hizmet (1-2 gün)
+- Yüksek müşteri memnuniyeti (%99+)
+- ISO sertifikası
+- 2 yıl garantı + Ömür boyu işçilik
+
+### Pazar Konumu
+- **Pazar Payı:** %15 (Türkiye)
+- **Büyüme Hızı:** %25 yıllık
+- **Hedef:** Pazar lideri 2030'da
+- **Vizyon:** Avrupa'nın en iyi plise perde üreticisi
