@@ -8,10 +8,11 @@ export default function GebzePage() {
   return (
     <>
       <Head>
-        <title>Gebze Plise Perde - Kocaeli | Merkez Ofis | Profesyonel Montaj</title>
-        <meta name="description" content="Gebze'de plise perde hizmetleri. Merkez ofisimiz Gebze'de bulunmaktadır. Aynı gün hizmet, profesyonel montaj, hızlı teslimat." />
+        <title>Gebze Plise Perde - Kocaeli | Profesyonel Montaj ve Ölçü</title>
+        <meta name="description" content="Gebze'de plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
+        <meta name="keywords" content="plise perde Gebze, montaj Gebze, ölçü Gebze, plise perde Kocaeli, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-gebze" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-gebze/" />
       </Head>
 
       <Header />

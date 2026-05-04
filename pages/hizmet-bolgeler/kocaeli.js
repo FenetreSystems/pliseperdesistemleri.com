@@ -36,9 +36,10 @@ export default function Kocaeli() {
     <>
       <Head>
         <title>Kocaeli Plise Perde Hizmetleri - Gebze Merkez Ofis</title>
-        <meta name="description" content="Kocaeli\'de plise perde montaj ve ölçü hizmetleri. Gebze merkez ofisimizden Dilovası, Darıca, Çayırova ve tüm ilçelerde hizmet veriyoruz." />
-        <meta name="keywords" content="plise perde Kocaeli, montaj Kocaeli, ölçü Kocaeli, plise perde Gebze, plise perde Dilovası" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli" />
+        <meta name="description" content="Kocaeli'de plise perde montaj ve ölçü hizmetleri. Gebze merkez ofisimizden Dilovası, Darıca, Çayırova ve tüm ilçelerde hizmet veriyoruz." />
+        <meta name="keywords" content="plise perde Kocaeli, montaj Kocaeli, ölçü Kocaeli, plise perde Gebze, plise perde Dilovası, plise perde Darıca, plise perde Çayırova" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli/" />
       </Head>
 
       <Header />

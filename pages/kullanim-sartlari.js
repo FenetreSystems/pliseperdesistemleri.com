@@ -8,9 +8,10 @@ export default function KullanimSartlari() {
     <>
       <Head>
         <title>Kullanım Şartları - Plise Perde Sistemleri</title>
-        <meta name="description" content="Plise Perde Sistemleri web sitesi kullanım şartları. Hak ve sorumluluklar." />
+        <meta name="description" content="Plise Perde Sistemleri web sitesi kullanım şartları. Hak ve sorumluluklar, sipariş ve ödeme, iade ve değişim politikası." />
+        <meta name="keywords" content="kullanım şartları, hak ve sorumluluklar, sipariş, ödeme, iade, değişim, garanti" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/kullanim-sartlari" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/kullanim-sartlari/" />
       </Head>
 
       <Header />

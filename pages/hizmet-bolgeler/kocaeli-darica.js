@@ -9,9 +9,10 @@ export default function DaricaPage() {
     <>
       <Head>
         <title>Darıca Plise Perde - Kocaeli | Profesyonel Montaj ve Ölçü</title>
-        <meta name="description" content="Darıca'da plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. Merkez ofisimize yakın, aynı gün hizmet." />
+        <meta name="description" content="Darıca'da plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
+        <meta name="keywords" content="plise perde Darıca, montaj Darıca, ölçü Darıca, plise perde Kocaeli, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-darica" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-darica/" />
       </Head>
 
       <Header />

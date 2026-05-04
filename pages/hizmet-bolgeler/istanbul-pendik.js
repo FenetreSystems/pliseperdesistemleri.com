@@ -10,8 +10,9 @@ export default function PendikPage() {
       <Head>
         <title>Pendik Plise Perde - İstanbul | Profesyonel Montaj ve Ölçü</title>
         <meta name="description" content="Pendik'te plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
+        <meta name="keywords" content="plise perde Pendik, montaj Pendik, ölçü Pendik, plise perde İstanbul, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-pendik" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-pendik/" />
       </Head>
 
       <Header />

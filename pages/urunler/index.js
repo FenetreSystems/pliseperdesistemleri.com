@@ -71,11 +71,11 @@ export default function Products() {
   return (
     <>
       <Head>
-        <title>Plise Perde Ürünleri - 12 Farklı Model</title>
-        <meta name="description" content="Plise Perde Sistemleri - 12 farklı plise perde modeli. Yapışkanlı, Blackout, Honeycomb ve daha fazlası." />
-        <meta name="keywords" content="plise perde, blackout perde, honeycomb perde, karartmalı perde, gece gündüz perde" />
+        <title>Plise Perde Ürünleri - 12 Farklı Model | Premium Kalite</title>
+        <meta name="description" content="Plise Perde Sistemleri - 12 farklı plise perde modeli. Yapışkanlı, Blackout, Honeycomb, Gece Gündüz ve daha fazlası. Premium kalitede ürünler." />
+        <meta name="keywords" content="plise perde, blackout perde, honeycomb perde, karartmalı perde, gece gündüz perde, yapışkanlı plise perde, tül plise perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/urunler" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/urunler/" />
       </Head>
 
       <Header />

@@ -8,9 +8,10 @@ export default function CerezPolitikasi() {
     <>
       <Head>
         <title>Çerez Politikası - Plise Perde Sistemleri</title>
-        <meta name="description" content="Plise Perde Sistemleri çerez politikası. Çerezlerin nasıl kullanıldığını öğrenin." />
+        <meta name="description" content="Plise Perde Sistemleri çerez politikası. Çerezlerin nasıl kullanıldığını, türlerini ve kontrol etmeyi öğrenin." />
+        <meta name="keywords" content="çerez politikası, çerezler, web analitik, kullanıcı deneyimi, gizlilik" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/cerez-politikasi" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/cerez-politikasi/" />
       </Head>
 
       <Header />

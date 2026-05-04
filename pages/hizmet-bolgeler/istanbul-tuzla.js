@@ -10,8 +10,9 @@ export default function TuzlaPage() {
       <Head>
         <title>Tuzla Plise Perde - İstanbul | Profesyonel Montaj ve Ölçü</title>
         <meta name="description" content="Tuzla'da plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
+        <meta name="keywords" content="plise perde Tuzla, montaj Tuzla, ölçü Tuzla, plise perde İstanbul, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-tuzla" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-tuzla/" />
       </Head>
 
       <Header />

@@ -60,9 +60,10 @@ export default function Istanbul() {
     <>
       <Head>
         <title>İstanbul Plise Perde Hizmetleri - Yerinde Ölçü ve Montaj</title>
-        <meta name="description" content="İstanbul\'da plise perde montaj ve ölçü hizmetleri. Tüm ilçelerde profesyonel ekip. Maltepe, Kartal, Pendik, Tuzla, Beşiktaş ve daha fazlasında hizmet veriyoruz." />
-        <meta name="keywords" content="plise perde İstanbul, montaj İstanbul, ölçü İstanbul, plise perde Maltepe, plise perde Kartal" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul" />
+        <meta name="description" content="İstanbul'da plise perde montaj ve ölçü hizmetleri. Tüm ilçelerde profesyonel ekip. Maltepe, Kartal, Pendik, Tuzla, Beşiktaş ve daha fazlasında hizmet veriyoruz." />
+        <meta name="keywords" content="plise perde İstanbul, montaj İstanbul, ölçü İstanbul, plise perde Maltepe, plise perde Kartal, plise perde Pendik, plise perde Tuzla" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul/" />
       </Head>
 
       <Header />

@@ -9,9 +9,10 @@ export default function CayirovaPage() {
     <>
       <Head>
         <title>Çayırova Plise Perde - Kocaeli | Profesyonel Montaj ve Ölçü</title>
-        <meta name="description" content="Çayırova'da plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. Merkez ofisimize yakın, aynı gün hizmet." />
+        <meta name="description" content="Çayırova'da plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
+        <meta name="keywords" content="plise perde Çayırova, montaj Çayırova, ölçü Çayırova, plise perde Kocaeli, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-cayirova" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-cayirova/" />
       </Head>
 
       <Header />

@@ -37,10 +37,10 @@ export default function Services() {
     <>
       <Head>
         <title>Plise Perde Hizmetleri - Ölçü, Montaj, Kurumsal Çözümler</title>
-        <meta name="description" content="Plise Perde Sistemleri hizmetleri - Yerinde ölçü, montaj, kurumsal çözümler ve özel tasarım." />
-        <meta name="keywords" content="plise perde montaj, yerinde ölçü, kurumsal çözümler, özel tasarım" />
+        <meta name="description" content="Plise Perde Sistemleri hizmetleri - Yerinde ölçü, montaj, kurumsal çözümler ve özel tasarım. Profesyonel ekip, garantili işçilik." />
+        <meta name="keywords" content="plise perde montaj, yerinde ölçü, kurumsal çözümler, özel tasarım, profesyonel montaj, plise perde hizmeti" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmetler" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmetler/" />
       </Head>
 
       <Header />
