@@ -1,9 +1,15 @@
-import Link from 'next/link'
-
 export default function MobileFooter() {
   return (
     <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 md:hidden">
-      <div className="flex items-center justify-around py-3 px-2">
+      <div className="flex items-center justify-between px-4 py-3">
+        {/* Logo */}
+        <div className="flex-1">
+          <div className="text-sm font-bold text-secondary">
+            PP <span className="text-primary">Plise Perde</span>
+          </div>
+        </div>
+
+        {/* Telefon */}
         <a 
           href="tel:+905403363873" 
           className="flex flex-col items-center gap-1 text-secondary hover:text-primary transition flex-1"
@@ -14,6 +20,7 @@ export default function MobileFooter() {
           <span className="text-xs font-medium">Telefon</span>
         </a>
 
+        {/* WhatsApp */}
         <a 
           href="https://wa.me/905403363873" 
           className="flex flex-col items-center gap-1 text-secondary hover:text-primary transition flex-1"
@@ -25,16 +32,6 @@ export default function MobileFooter() {
           </svg>
           <span className="text-xs font-medium">WhatsApp</span>
         </a>
-
-        <Link 
-          href="/bayilik" 
-          className="flex flex-col items-center gap-1 text-secondary hover:text-primary transition flex-1"
-        >
-          <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
-          </svg>
-          <span className="text-xs font-medium">Bayilik</span>
-        </Link>
       </div>
     </div>
   )
