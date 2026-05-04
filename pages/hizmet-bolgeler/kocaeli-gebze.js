@@ -12,7 +12,7 @@ export default function GebzePage() {
         <meta name="description" content="Gebze'de plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
         <meta name="keywords" content="plise perde Gebze, montaj Gebze, ölçü Gebze, plise perde Kocaeli, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-gebze/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-gebze" />
       </Head>
 
       <Header />

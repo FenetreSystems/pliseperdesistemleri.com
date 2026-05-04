@@ -11,7 +11,7 @@ export default function GizlilikPolitikasi() {
         <meta name="description" content="Plise Perde Sistemleri gizlilik politikası. Kişisel verilerinizin nasıl korunduğunu, toplanmasını ve kullanımını öğrenin." />
         <meta name="keywords" content="gizlilik politikası, kişisel veriler, veri koruması, GDPR, gizlilik" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/gizlilik-politikasi/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/gizlilik-politikasi" />
       </Head>
 
       <Header />

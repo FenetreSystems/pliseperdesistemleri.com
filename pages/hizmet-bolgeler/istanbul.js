@@ -63,7 +63,7 @@ export default function Istanbul() {
         <meta name="description" content="İstanbul'da plise perde montaj ve ölçü hizmetleri. Tüm ilçelerde profesyonel ekip. Maltepe, Kartal, Pendik, Tuzla, Beşiktaş ve daha fazlasında hizmet veriyoruz." />
         <meta name="keywords" content="plise perde İstanbul, montaj İstanbul, ölçü İstanbul, plise perde Maltepe, plise perde Kartal, plise perde Pendik, plise perde Tuzla" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul" />
       </Head>
 
       <Header />

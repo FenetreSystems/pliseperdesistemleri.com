@@ -11,7 +11,7 @@ export default function Dealership() {
         <meta name="description" content="Plise Perde Sistemleri bayilik programı - Kazançlı bir iş kurmak için ortağımız olun. Yüksek kar marjı, pazarlama desteği, teknik destek." />
         <meta name="keywords" content="bayilik, plise perde bayisi, iş ortaklığı, dağıtıcı, bölgesel satış, münhasır dağıtım" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/bayilik/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/bayilik" />
       </Head>
 
       <Header />

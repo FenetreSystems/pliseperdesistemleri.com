@@ -6,6 +6,7 @@ const nextConfig = {
   poweredByHeader: false,
   generateEtags: false,
   productionBrowserSourceMaps: false,
+  trailingSlash: false,
 
   // Image optimization
   images: {

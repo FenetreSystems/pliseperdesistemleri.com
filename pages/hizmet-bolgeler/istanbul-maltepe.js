@@ -12,7 +12,7 @@ export default function MaltepePage() {
         <meta name="description" content="Maltepe'de plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
         <meta name="keywords" content="plise perde Maltepe, montaj Maltepe, ölçü Maltepe, plise perde İstanbul, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-maltepe/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-maltepe" />
       </Head>
 
       <Header />

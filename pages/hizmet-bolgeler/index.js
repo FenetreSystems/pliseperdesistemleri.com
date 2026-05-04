@@ -12,7 +12,7 @@ export default function ServiceRegions() {
         <meta name="description" content="Plise Perde Sistemleri hizmet bölgeleri - İstanbul ve Kocaeli'de yerinde ölçü ve montaj hizmeti. Tüm ilçelerde hizmet sunuyoruz." />
         <meta name="keywords" content="plise perde İstanbul, plise perde Kocaeli, yerinde montaj, hizmet bölgeleri, Maltepe, Kartal, Pendik, Gebze" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler" />
       </Head>
 
       <Header />

@@ -12,7 +12,7 @@ export default function KartalPage() {
         <meta name="description" content="Kartal'da plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
         <meta name="keywords" content="plise perde Kartal, montaj Kartal, ölçü Kartal, plise perde İstanbul, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-kartal/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/istanbul-kartal" />
       </Head>
 
       <Header />

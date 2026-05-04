@@ -12,7 +12,7 @@ export default function DilovasiPage() {
         <meta name="description" content="Dilovası'nda plise perde hizmetleri. Yerinde ölçü, profesyonel montaj, hızlı teslimat. 15 yıldan fazla tecrübe." />
         <meta name="keywords" content="plise perde Dilovası, montaj Dilovası, ölçü Dilovası, plise perde Kocaeli, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-dilovasi/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/hizmet-bolgeler/kocaeli-dilovasi" />
       </Head>
 
       <Header />

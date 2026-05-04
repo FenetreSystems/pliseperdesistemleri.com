@@ -12,7 +12,7 @@ export default function Contact() {
         <meta name="description" content="Plise Perde Sistemleri - İletişim bilgileri, telefon, WhatsApp, adres ve hizmet bölgeleri. Hemen bize ulaşın." />
         <meta name="keywords" content="iletişim, telefon, whatsapp, adres, plise perde, hizmet bölgeleri, İstanbul, Kocaeli" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/iletisim/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com/iletisim" />
       </Head>
 
       <Header />

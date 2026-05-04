@@ -12,7 +12,7 @@ export default function Home() {
         <meta name="description" content="Plise Perde Sistemleri - 15 yıldan fazla tecrübesiyle Türkiye'nin en güvenilir plise perde üreticisi. Premium kalitede ürünler, profesyonel montaj ve ölçü hizmetleri." />
         <meta name="keywords" content="plise perde, plise perde fiyatı, plise perde montaj, plise perde ölçü, blackout perde, honeycomb perde" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://pliseperdesistemleri.com/" />
+        <link rel="canonical" href="https://pliseperdesistemleri.com" />
       </Head>
 
       <Header />
