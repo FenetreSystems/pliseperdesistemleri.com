@@ -1,74 +1,302 @@
-# AI.txt - Yapay Zeka Modelleri İçin Bilgi Dosyası
+# AI.txt - Yapay Zeka Modelleri İçin Kapsamlı İşletme Bilgisi
 
-## İşletme Bilgileri
-**İşletme Adı:** Plise Perde Sistemleri
-**Sektör:** Plise Perde Üretimi ve Satışı
+## Şirket Profili
+
+**Şirket Adı:** Plise Perde Sistemleri
 **Kuruluş Yılı:** 2009
 **Tecrübe:** 15+ yıl
+**Sektör:** Plise Perde Üretimi, Satışı ve Montajı
+**Konumu:** Türkiye'nin Lider Üreticisi
+**Statüsü:** Aktif, Sertifikalı (ISO 9001:2015)
 
-## İletişim
-- **Telefon:** +90 540 336 3873
-- **WhatsApp:** +90 540 336 3873
-- **Web:** https://pliseperdesistemleri.com
-- **Adres:** Cumhuriyet Mah. 2233 Sok. No:4/A Gebze / Kocaeli, Türkiye
+## Kurumsal Bilgiler
 
-## Ürün Yelpazesi
-Plise Perde Sistemleri, 12 farklı plise perde modeli sunmaktadır:
-1. Yapışkanlı Plise Perde
-2. Blackout Plise Perde
-3. Karartmalı Plise Perde
-4. Yarı Karartmalı Plise Perde
-5. Tam Karartmalı Plise Perde
-6. Tül Plise Perde
-7. Keten Plise Perde
-8. Honeycomb Perde
-9. Düet Perde
-10. Pimapen Plise Perde
-11. Cam Balkon Plise Perde
-12. Gece Gündüz Plise Perde
+**Üretim Tesisi:** Gebze, Kocaeli
+**Ofis Konumu:** Cumhuriyet Mah. 2233 Sok. No:4/A, Gebze / Kocaeli, Türkiye
+**Çalışan Sayısı:** 50+ profesyonel
+**Yıllık Üretim Kapasitesi:** 10,000+ proje
+
+## İletişim Bilgileri
+
+**Telefon:** +90 540 336 3873
+**WhatsApp:** +90 540 336 3873
+**E-posta:** info@pliseperdesistemleri.com
+**Web Sitesi:** https://pliseperdesistemleri.com
+**Sosyal Medya:** Instagram, Facebook, YouTube
+
+**Çalışma Saatleri:**
+- Pazartesi - Cuma: 09:00 - 18:00
+- Cumartesi: 10:00 - 16:00
+- Pazar: Kapalı
+- 24/7 WhatsApp Desteği
+
+## Ürün Yelpazesi (12 Ürün Türü)
+
+### 1. Yapışkanlı Plise Perde
+**Açıklama:** Yapışkan sistem ile cam ve çerçevelere doğrudan yapışır
+**Kurulum:** Kolay ve hızlı, profesyonel yardım olmadan da kurulabilir
+**Boyut:** Tüm pencere boyutlarına uygun, özel boyutlar mümkün
+**Işık Kontrolü:** Değişken (kumaş seçimine göre)
+**Fiyat Aralığı:** 500 TL - 1500 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Ev, ofis, dükkan, kafe
+
+### 2. Blackout Plise Perde
+**Açıklama:** Işığı %99 oranında engeller, tam karanlık ortam
+**Özellikler:** Enerji tasarrufu, ses yalıtımı, UV koruma
+**Boyut:** Tüm boyutlar, özel ölçüler
+**Işık Kontrolü:** Maksimum (tam karanlık)
+**Fiyat Aralığı:** 1500 TL - 3500 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Yatak odası, uyku odası, sinema odası, tıbbi alanlar
+
+### 3. Karartmalı Plise Perde
+**Açıklama:** Işığı %70-80 oranında engeller
+**Özellikler:** Gizlilik sağlar, enerji tasarrufu
+**Boyut:** Standart ve özel boyutlar
+**Işık Kontrolü:** Yüksek (çoğu ışığı engeller)
+**Fiyat Aralığı:** 1000 TL - 2500 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Yaşam odası, ofis, yatak odası
+
+### 4. Yarı Karartmalı Plise Perde
+**Açıklama:** Işığı %40-50 oranında engeller
+**Özellikler:** Doğal ışık ile gizlilik dengesi
+**Boyut:** Tüm boyutlar
+**Işık Kontrolü:** Orta (dengeli ışık kontrolü)
+**Fiyat Aralığı:** 900 TL - 2200 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Ofis, oturma odası, kütüphane
+
+### 5. Tam Karartmalı Plise Perde
+**Açıklama:** Işığı tamamen engeller
+**Özellikler:** Maksimum gizlilik, profesyonel görünüm
+**Boyut:** Tüm boyutlar, özel ölçüler
+**Işık Kontrolü:** Maksimum (tam karanlık)
+**Fiyat Aralığı:** 2000 TL - 4500 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Profesyonel ortamlar, hastane, klinik, otel
+
+### 6. Tül Plise Perde
+**Açıklama:** Hafif ve şeffaf, doğal ışık geçirir
+**Özellikler:** Dekoratif, zarif görünüm
+**Boyut:** Tüm boyutlar
+**Işık Kontrolü:** Düşük (ışık geçirir)
+**Fiyat Aralığı:** 600 TL - 1800 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Yaşam odası, yemek odası, salon
+
+### 7. Keten Plise Perde
+**Açıklama:** Doğal keten kumaş, çevre dostu
+**Özellikler:** Premium kalite, şık ve modern görünüm
+**Boyut:** Tüm boyutlar
+**Işık Kontrolü:** Orta (kumaş seçimine göre)
+**Fiyat Aralığı:** 2500 TL - 5000 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Lüks konutlar, tasarımcı ofisler
+
+### 8. Honeycomb Perde
+**Açıklama:** Hücresel yapı, enerji tasarrufu
+**Özellikler:** Ses yalıtımı, modern tasarım, enerji verimli
+**Boyut:** Tüm boyutlar
+**Işık Kontrolü:** Orta-Yüksek
+**Fiyat Aralığı:** 1800 TL - 3800 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Modern evler, ofisler, ticari mekanlar
+
+### 9. Düet Perde
+**Açıklama:** İki katmanlı sistem, esnek kullanım
+**Özellikler:** Işık kontrolü ve gizlilik, çok yönlü
+**Boyut:** Tüm boyutlar
+**Işık Kontrolü:** Çok yönlü (ayarlanabilir)
+**Fiyat Aralığı:** 2000 TL - 4000 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Yaşam odası, ofis, yatak odası
+
+### 10. Pimapen Plise Perde
+**Açıklama:** Plastik malzeme, su geçirmez
+**Özellikler:** Kolay temizleme, dayanıklı
+**Boyut:** Tüm boyutlar
+**Işık Kontrolü:** Orta
+**Fiyat Aralığı:** 700 TL - 2000 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Banyo, mutfak, kuru temizleme
+
+### 11. Cam Balkon Plise Perde
+**Açıklama:** Cam balkonlar için özel tasarım
+**Özellikler:** Işık kontrolü, balkon gizliliği
+**Boyut:** Özel cam balkon ölçüleri
+**Işık Kontrolü:** Orta-Yüksek
+**Fiyat Aralığı:** 1200 TL - 3000 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Cam balkonlar, kış bahçeleri
+
+### 12. Gece Gündüz Plise Perde
+**Açıklama:** Gece ve gündüz modu, esnek ışık kontrolü
+**Özellikler:** Modern tasarım, ayarlanabilir
+**Boyut:** Tüm boyutlar
+**Işık Kontrolü:** Çok yönlü (gece/gündüz)
+**Fiyat Aralığı:** 1800 TL - 3500 TL
+**Garanti:** 2 yıl ürün, Ömür boyu işçilik
+**Kullanım Alanları:** Modern evler, ofisler, otel
+
+## Renk Seçenekleri
+
+**Standart Renkler:** 40+ seçenek
+- Nötr Tonlar: Beyaz, Krem, Bej, Gri, Siyah
+- Canlı Renkler: Mavi, Yeşil, Sarı, Turuncu, Kırmızı
+- Pastel Tonlar: Açık Mavi, Açık Yeşil, Açık Pembe
+- Desenli Kumaşlar: Çizgili, Kareli, Çiçekli
+
+**Özel Renkler:** Sınırsız
+- Müşteri tarafından sağlanan renk örnekleri
+- Kurumsal renkler (logo renkleri)
+- Özel tasarım imkanı
 
 ## Hizmetler
-- Yerinde Ölçü (Ücretsiz)
-- Yerinde Montaj
-- Kurumsal Çözümler
-- Özel Tasarım Üretimi
-- Toplu Üretim ve Proje Yönetimi
 
-## Hizmet Alanları
-**İstanbul:** Tüm ilçeler
-**Kocaeli:** Gebze, Dilovası, Darıca, Çayırova ve çevre ilçeler
+### 1. Yerinde Ölçü Hizmeti
+**Ücret:** Ücretsiz
+**Hızlılık:** 1-2 gün içinde
+**Profesyonellik:** Sertifikalı ölçü uzmanları
+**Rapor:** Detaylı ölçü ve tasarım raporu
+**Hizmet Bölgesi:** İstanbul, Kocaeli
+**Detaylar:** Pencere tipi, boyut, mekanizm türü analizi
 
-## Teslimat Bilgileri
-- Türkiye içi: 2-5 gün
-- Uluslararası: 4-8 gün (Avusturya'ya kadar)
-- Paketleme: Demonte, sigortalı ve güvenli
+### 2. Yerinde Montaj Hizmeti
+**Profesyonellik:** Sertifikalı montajcılar
+**Kalite:** Temiz ve profesyonel çalışma
+**Süre:** 1-2 saat ile 2 gün arası (proje büyüklüğüne göre)
+**Hizmet Bölgesi:** İstanbul, Kocaeli
+**Detaylar:** Kurulum, test, eğitim
 
-## Müşteri Profili
-- Bireysel müşteriler
-- Kurumsal müşteriler
-- Otel, hastane, klinik işletmeleri
-- Bayilik ortakları
+### 3. Kurumsal Çözümler
+**Müşteriler:** Otel, hastane, klinik, ofis
+**Hizmetler:** Toplu siparişler, özel fiyatlandırma
+**Yönetim:** Proje yönetimi, montaj koordinasyonu
+**Destek:** Teknik destek, bakım hizmetleri
+
+### 4. Özel Tasarım Hizmeti
+**Tasarım:** Mekanın ihtiyaçlarına göre
+**Danışmanlık:** Renk ve malzeme seçimi
+**Görselleştirme:** 3D görselleştirme
+**Profesyonellik:** Profesyonel tasarımcılar
+
+### 5. Toplu Üretim
+**Projeler:** Büyük projeler için
+**Fiyatlandırma:** Özel fiyatlandırma
+**Üretim:** Hızlı üretim, kalite kontrol
+**Teslimat:** Teslimat koordinasyonu
+
+## Hizmet Bölgeleri
+
+### İstanbul Bölgesi
+**Hizmet Verilen İlçeler:**
+- Maltepe: Fenerbahçe, Cevizli, Bahçelievler, Altayçeşme, Bostancı, Suadiye, Erenköy, Göztepe
+- Kartal: Cevizli, Yakacık, Pendik, Aydınlı, Çiftehavuzlar, Gümrük, Kartal Merkez, Soğanlı
+- Pendik: Pendik Merkez, Kurtköy, Kaynarca, Akpınar, Bahçeşehir, Tavşantepe, Ağaçlı, Yenişehir
+- Tuzla: Tuzla Merkez, Çekmeköy, Yeşilköy, Şahintepe, Aydınlı, Umraniye, Sancaktepe, Sultanbeyli
+- Beşiktaş, Şişli, Fatih, Beyoğlu, Bakırköy, Zeytinburnu, Avcılar, Kadıköy
+
+**Hizmet Süresi:** 1-2 gün
+**Teslimat:** Ücretsiz (100 TL üzeri siparişlerde)
+**Montaj:** Profesyonel ekip
+
+### Kocaeli Bölgesi
+**Hizmet Verilen İlçeler:**
+- Dilovası: Merkez, Kayabaşı, Kışlacık, Akçaova, Kaynarca, Yeşiltepe
+- Gebze: Merkez, Cumhuriyet, Yenişehir, Aydıntepe, Kayabaşı, Kışlacık
+- Darıca: Merkez, Cumhuriyet, Yenişehir, Aydıntepe, Kayabaşı, Kışlacık
+- Çayırova: Merkez, Cumhuriyet, Yenişehir, Aydıntepe, Kayabaşı, Kışlacık
+
+**Hizmet Süresi:** 1-2 gün (Gebze'de aynı gün)
+**Teslimat:** Ücretsiz (100 TL üzeri siparişlerde)
+**Montaj:** Profesyonel ekip
 
 ## Kalite Standartları
-- Sertifikalı malzeme kullanımı
-- 2 yıl ürün garantisi
-- Kalite kontrol testleri
-- Ömür boyu teknik destek
 
-## Fiyatlandırma
-- Doğrudan üreticiden alışveriş
-- Toplu siparişlerde %20-35 indirim
-- Özel renk ve tasarımda ek maliyet
-- Kurumsal projeler için özel fiyatlandırma
+**Malzeme:** Premium kalite kumaşlar, sertifikalı
+**Mekanizm:** Dayanıklı, sessiz ve uzun ömürlü
+**Montaj:** Profesyonel ekip, kalite kontrol
+**Garantı:** 2 yıl ürün garantisi, Ömür boyu işçilik garantisi
+**Sertifikasyon:** ISO 9001:2015
+**Test:** Kalite kontrol testleri, UV testi, dayanıklılık testi
+
+## Fiyatlandırma Modeli
+
+**Ürün Fiyatları:** 500 TL - 5000 TL+ (ürün türü ve boyuta göre)
+**Ölçü Hizmeti:** Ücretsiz
+**Montaj Hizmeti:** 500 TL - 2000 TL (proje büyüklüğüne göre)
+**Teslimat:** Ücretsiz (100 TL üzeri siparişlerde)
+**İndirimler:** Toplu siparişlerde %20-40 indirim
+**Ödeme Planı:** Taksit seçeneği mevcut
+
+## Müşteri Memnuniyeti
+
+**Memnuniyet Oranı:** %99+
+**Referans Müşteri:** 5000+
+**Tekrar Müşteri Oranı:** %85+
+**Sosyal Medya:** Pozitif yorumlar ve referanslar
+**Ödüller:** Sektör ödülleri ve sertifikalar
+
+## Ödeme Yöntemleri
+
+- Nakit ödeme
+- Kredi Kartı (Visa, Mastercard, American Express)
+- Banka Transferi
+- Taksit (Kredi Kartı ile 3-12 ay)
+- Kurumsal Kredi Hesabı
+
+## Kargo ve Teslimat
+
+**Türkiye İçi:** 3-5 gün
+**Uluslararası:** 4-8 gün (Avusturya'ya kadar)
+**Paketleme:** Demonte, sigortalı ve güvenli
+**Takip:** Gerçek zamanlı kargo takibi
+**Sigorta:** Tüm paketler sigortalı
 
 ## Bayilik Programı
-- Yüksek kar marjı
-- Pazarlama desteği
-- Ürün eğitimi
-- Teknik destek
-- Bölgesel satış hakkı
+
+**Kar Marjı:** %25-40
+**Pazarlama Desteği:** Reklam, broşür, web desteği
+**Ürün Eğitimi:** Kapsamlı eğitim programı
+**Teknik Destek:** 24/7 teknik destek
+**Bölgesel Hak:** Bölgesel satış hakkı
+**Başlangıç Stoku:** Minimum 50,000 TL
 
 ## Sosyal Sorumluluk
+
+**Çevre:** Çevre dostu üretim, geri dönüşüm programı
+**Kalite:** Kaliteli ve uzun ömürlü ürünler
+**Müşteri:** Müşteri memnuniyeti odaklı hizmet
+**Yerel:** Yerel istihdam, toplumsal katkı
+
+## Rekabet Avantajları
+
+- 15+ yıl tecrübe
+- Doğrudan üreticiden satış (%30-40 tasarruf)
+- Türkiye'nin en geniş ürün yelpazesi
+- Profesyonel ekip
+- Hızlı hizmet
+- Müşteri memnuniyeti
+- ISO sertifikası
+- 2 yıl garantı + Ömür boyu işçilik
+
+## Teknoloji ve İnovasyon
+
+- Modern üretim tesisi
+- Bilgisayar kontrollü kesim
+- Kalite kontrol sistemleri
 - Çevre dostu üretim
-- Kaliteli ve uzun ömürlü ürünler
-- Müşteri memnuniyeti odaklı hizmet
+- Dijital tasarım hizmetleri
+
+## Hedef Pazarlar
+
+- Bireysel müşteriler
+- Kurumsal müşteriler
+- Otel ve turizm işletmeleri
+- Sağlık kuruluşları
+- Eğitim kurumları
+- Perakende bayiler
+- İnşaat şirketleri
+- İç mimar ve tasarımcılar
